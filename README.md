@@ -21,6 +21,9 @@
 #### Industrial Automation:
 ![Siemens](https://img.shields.io/badge/-Siemens-007DB8?style=for-the-badge&logo=siemens&logoColor=white)
 ![Rockwell](https://img.shields.io/badge/-Rockwell_Automation-FF0000?style=for-the-badge&logo=rockwellautomation&logoColor=white)
+![Mitsubishi](https://img.shields.io/badge/-Mitsubishi_Electric-FF3300?style=for-the-badge&logo=mitsubishi&logoColor=white)
+![Schneider Electric](https://img.shields.io/badge/-Schneider_Electric-006600?style=for-the-badge&logo=schneider-electric&logoColor=white)
+![Omron](https://img.shields.io/badge/-Omron-1A6EBB?style=for-the-badge&logo=omron&logoColor=white)
 ![STL](https://img.shields.io/badge/-STL-008080?style=for-the-badge&logo=stl&logoColor=white)
 ![PLC](https://img.shields.io/badge/-PLC-000000?style=for-the-badge&logo=automation&logoColor=white)
 
