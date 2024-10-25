@@ -4,7 +4,7 @@
 🌟 I'm a Software Developer with a passion for Python, Java, and backend development.
 
 ### Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://https://www.linkedin.com/in/%F0%9F%8D%81rafael-outi-09023319b/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/seu-linkedin) 
 [![Instagram](https://img.shields.io/badge/Instagram-pink)](https://www.instagram.com/seu-instagram)
 
 ### Tech Stack:
@@ -19,3 +19,6 @@
 
 ### GitHub Stats:
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelouti&show_icons=true&theme=radical)
+
+### Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelouti&layout=compact&theme=radical)
