@@ -18,6 +18,13 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+#### Industrial Automation:
+![Siemens](https://img.shields.io/badge/-Siemens-007DB8?style=for-the-badge&logo=siemens&logoColor=white)
+![Rockwell](https://img.shields.io/badge/-Rockwell_Automation-FF0000?style=for-the-badge&logo=rockwellautomation&logoColor=white)
+![STL](https://img.shields.io/badge/-STL-008080?style=for-the-badge&logo=stl&logoColor=white)
+![PLC](https://img.shields.io/badge/-PLC-000000?style=for-the-badge&logo=automation&logoColor=white)
+
+
 #### Frameworks:
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
