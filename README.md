@@ -5,7 +5,7 @@
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/🍁rafael-outi-09023319b/) 
-[![Instagram](https://img.shields.io/badge/Instagram-pink)](https://www.instagram.com/seu-instagram)
+
 
 ### Tech Stack:
 #### Languages:
