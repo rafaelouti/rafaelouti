@@ -4,7 +4,7 @@
 🌟 I'm a Software Developer with a passion for Python, Java, and backend development.
 
 ### Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/https://www.linkedin.com/in/rafael-outi-da-silva-09023319b/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/rafael-outi-da-silva-09023319b/) 
 
 
 ### Tech Stack:
