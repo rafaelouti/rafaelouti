@@ -1,7 +1,7 @@
 # About Me:
+
 👋 Hello, I'm Rafael Outi!
 
-🌟 I'm a Software Developer with a passion for Python, Java, and backend development.
 
 
 ### Tech Stack:
